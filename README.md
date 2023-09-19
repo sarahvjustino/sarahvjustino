@@ -1,5 +1,3 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
-
 ### Hi, I am Sarah👋
 I am a recent graduate in Analysis and Systems Development looking for opportunities and collaboration in projects related to web development and software engineering.
 - 🔭 I'm currently working on enhancing my web development skills, focusing on creating responsive and user-friendly web applications.

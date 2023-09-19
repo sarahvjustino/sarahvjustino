@@ -29,8 +29,6 @@ I am a recent graduate in Analysis and Systems Development looking for opportuni
 <div> 
   <a href = "mailto:sarahvictoria230@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sarah-victoria-justino-de-castro-1b4b44225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/sarahvjustino/sarahvjustino/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 

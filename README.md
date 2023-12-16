@@ -1,9 +1,13 @@
 ### Hi, I am Sarah👋
+🔭 Atualmente, estou trabalhando no aprimoramento das minhas habilidades em desenvolvimento web, com foco na criação de aplicativos web responsivos e amigáveis ao usuário.
+🌱 Também estou estudando as últimas tendências em desenvolvimento web, incluindo tecnologias front-end e back-end, e continuamente aprimorando meu conhecimento nessa área.
+🤝 Estou buscando colaborar em projetos de desenvolvimento web e iniciativas de engenharia de software. Se você tiver um projeto empolgante ou uma ideia, sinta-se à vontade para entrar em contato. Vamos criar algo incrível juntos!"
+
 I am a recent graduate in Analysis and Systems Development looking for opportunities and collaboration in projects related to web development and software engineering.
 - 🔭 I'm currently working on enhancing my web development skills, focusing on creating responsive and user-friendly web applications.
 - 🌱 I'm also studying the latest trends in web development, including front-end and back-end technologies, and continuously improving my knowledge in this field.
 - 🤝 I'm looking to collaborate on web development projects and software engineering initiatives. If you have an exciting project or idea, feel free to reach out. Let's create something amazing together!
-- 
+
  <div>
    <a href="https://github.com/sarahvjustino">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarahvjustino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

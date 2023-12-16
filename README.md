@@ -1,9 +1,10 @@
 ### Hi, I am Sarah👋
-🔭 Atualmente, estou trabalhando no aprimoramento das minhas habilidades em desenvolvimento web, com foco na criação de aplicativos web responsivos e amigáveis ao usuário.
-🌱 Também estou estudando as últimas tendências em desenvolvimento web, incluindo tecnologias front-end e back-end, e continuamente aprimorando meu conhecimento nessa área.
-🤝 Estou buscando colaborar em projetos de desenvolvimento web e iniciativas de engenharia de software. Se você tiver um projeto empolgante ou uma ideia, sinta-se à vontade para entrar em contato. Vamos criar algo incrível juntos!"
+Sou uma estudante me graduando em Análise e Desenvolvimento de Sistemas, em busca de oportunidades e colaboração em projetos relacionados ao desenvolvimento web e engenharia de software.
+- 🔭 Atualmente, estou trabalhando no aprimoramento das minhas habilidades em desenvolvimento web, com foco na criação de aplicativos web responsivos e amigáveis ao usuário.
+- 🌱 Também estou estudando as últimas tendências em desenvolvimento web, incluindo tecnologias front-end e back-end, e aprimorando continuamente meu conhecimento nessa área.
+- 🤝 Estou em busca de colaboração em projetos de desenvolvimento web e iniciativas de engenharia de software. Se você tiver um projeto ou ideia empolgante, sinta-se à vontade para entrar em contato. Vamos criar algo incrível juntos!
 
-I am a recent graduate in Analysis and Systems Development looking for opportunities and collaboration in projects related to web development and software engineering.
+I am currently pursuing a degree in Analysis and Systems Development, looking for opportunities and collaboration in projects related to web development and software engineering.
 - 🔭 I'm currently working on enhancing my web development skills, focusing on creating responsive and user-friendly web applications.
 - 🌱 I'm also studying the latest trends in web development, including front-end and back-end technologies, and continuously improving my knowledge in this field.
 - 🤝 I'm looking to collaborate on web development projects and software engineering initiatives. If you have an exciting project or idea, feel free to reach out. Let's create something amazing together!
